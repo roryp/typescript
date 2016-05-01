@@ -1,0 +1,5 @@
+{
+  "ambientDependencies": {
+    "toastr": "registry:dt/toastr#2.0.1+20160316155526"
+  }
+}

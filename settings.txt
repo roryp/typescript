@@ -1,0 +1,15 @@
+{
+    "cmd": ["tsc","$file"],
+    "file_regex": "(.*\\.ts?)\\s\\(([0-9]+)\\,([0-9]+)\\)\\:\\s(...*?)$",
+    "selector": "source.ts",
+
+    "windows": {
+        "cmd": ["tsc.cmd", "$file"]
+    }
+}
+
+C:\Users\dharm\AppData\Roaming\Sublime Text 3\Packages\User
+
+{
+    "cmd": ["node","$file"]
+}
